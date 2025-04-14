@@ -16,6 +16,6 @@ Este é um projeto de uma **loja virtual de artigos esportivos**, onde o usuári
 - Integração com o **Mercado Pago** para finalizar o pagamento
 - Armazenamento e recuperação de dados no **Banco de dados**
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT.
 Sinta-se à vontade para usar, modificar e contribuir!
